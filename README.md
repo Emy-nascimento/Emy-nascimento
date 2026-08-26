@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+ <img width="1536" height="1024" alt="WhatsApp Image 2026-08-26 at 10 59 09 AM" src="https://github.com/user-attachments/assets/4e581078-b924-4b93-a7de-3f67b9d12aca" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e581078-b924-4b93-a7de-3f67b9d12aca" alt="Emilly Nascimento Profile" width="100%">
+</p>
 <!--
 **Emy-nascimento/Emy-nascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
